@@ -112,7 +112,6 @@
     "rc-dialog": "~7.5.2",
     "rc-drawer": "~3.0.0",
     "rc-dropdown": "~2.4.1",
-    "rc-editor-mention": "^1.1.13",
     "rc-form": "^2.4.10",
     "rc-input-number": "~4.5.0",
     "rc-mentions": "~0.4.0",
